@@ -28,3 +28,4 @@ Me Chamo Leonardo Cortez e sou apaixonado por tecnologia, atuo na area de infra 
 ## 📊 GitHub Statistics
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=CortezRJ&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CortezRJ&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
