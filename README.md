@@ -20,6 +20,7 @@ Me Chamo Leonardo Cortez e sou apaixonado por tecnologia, atuo na area de infra 
 - Segurança em Tecnologia da Informação - Fundação Bradesco
 - Lean Six Sigma White Belt - CertProf
 - Scrum Foundation Professional Certificate (SFPC) - CertProf
+- Cybersecurity Awareness Professional Certification - CAPC™ -  CertProf
 
 
 ## 📌 Contato
