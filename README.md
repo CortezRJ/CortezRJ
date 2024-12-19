@@ -23,6 +23,8 @@ Me Chamo Leonardo Cortez e sou apaixonado por tecnologia, atuo na area de infra 
 
 
 ## 📌 Contato
-<a href="https://www.linkedin.com/in/leonardo-cortez-0abb0a53/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Leonardo Cortez Linkedin" height="30" width="40" style="max-width: 100%;"></a> <a href="mailto:leonardocortez@gmail.com" rel="nofollow"><img align="center" src="https://github.com/CortezRJ/Icones/blob/main/outlook-svgrepo-com.svg" alt="Leonardo Cortez Email" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/leonardo-cortez-0abb0a53/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Leonardo Cortez Linkedin" height="30" width="40" style="max-width: 100%;"></a> [![Outlook](https://github.com/CortezRJ/Icones/blob/main/outlook-svgrepo-com.svg)](mailto:leonardocortez@gmail.com) alt="Leonardo Cortez Email" height="30" width="40" style="max-width: 100%;"></a>
+
+<a href="mailto:leonardocortez@gmail.com" rel="nofollow"><img align="center" src="https://github.com/CortezRJ/Icones/blob/main/outlook-svgrepo-com.svg" alt="Leonardo Cortez Email" height="30" width="40" style="max-width: 100%;"></a>
 
 
