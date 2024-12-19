@@ -5,7 +5,7 @@ Me Chamo Leonardo Cortez e sou apaixonado por tecnologia, atuo na area de infra 
 
 ## 💻 Skills
 - Instalação e Suporte de Sistemas: Alterdata, Visual Mix e Sênior Sistemas.
-- Administração de Servidores: Virtual Machines (VM), Storages, Active Directory (GPOs, Servidor de Arquivos, DHCP, DNS), IIS, WSUS, DFS, FTP e Linux (Zabbix, Grafana, Suse for SAP Appications).
+- Administração de Servidores: Virtual Machines (VM), Storages, Active Directory (GPOs, Servidor de Arquivos, DHCP, DNS), IIS, WSUS, DFS, FTP e Linux (Zabbix, Grafana, Wazuh e Suse for SAP Appications).
 - Banco de Dados: Conhecimento em SQL Server.
 - Soluções BluePex: Administração de Firewall UTM, MX Mail Exchange e SM Security Mail.
 - Gerenciamento de Backups: Implementação e monitoramento de soluções de backup.
