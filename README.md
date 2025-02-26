@@ -8,10 +8,10 @@ Me Chamo Leonardo Cortez e sou apaixonado por tecnologia, atuo na area de infra 
 - Administração de Servidores: Virtual Machines (VM), Storages, Active Directory (GPOs, Servidor de Arquivos, DHCP, DNS), IIS, WSUS, DFS, FTP e Linux (Zabbix, Grafana, Wazuh e Suse for SAP Appications).
 - Banco de Dados: Conhecimento em SQL Server.
 - Soluções BluePex: Administração de Firewall UTM, MX Mail Exchange e SM Security Mail.
-- Gerenciamento de Backups: Implementação e monitoramento de soluções de backup.
-- Segurança: Administração de Servidor McAfee ePolicy Orchestrator.
+- Gerenciamento de Backups: Implementação e monitoramento de soluções de backup (Synology e Bacula).
+- Segurança: Administração de Servidor McAfee ePolicy Orchestrator e Bitdefender GravityZone.
 - Redes: Conhecimento em protocolos e tecnologias de redes LANs e WANs, além de firewall, roteamento e NAT.
-- Nuvem: Implantação e gestão de serviços e servidores em nuvem (OCI, Azure)
+- Nuvem: Implantação e gestão de serviços e servidores em nuvem (OCI e Azure)
 
 ## 🏆 Cursos e Certificações
 - McAfee ePolicy Orchestrator 4.6 com VirusScan 8.8, Device Control e Host Intrusion Prevention System 8.x - Netsafe Corp
