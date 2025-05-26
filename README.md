@@ -23,7 +23,7 @@ Além da parte técnica, lidero equipe e gerencio projetos, já viajei para impl
 - Banco de Dados: Conhecimento em SQL Server.
 - Soluções BluePex: Administração de Firewall UTM, MX Mail Exchange e SM Security Mail.
 - Gerenciamento de Backups: Implementação e monitoramento de soluções de backup (Synology e Bacula).
-- Segurança: Administração de Servidor McAfee ePolicy Orchestrator e Bitdefender GravityZone.
+- Segurança: Administração de Servidor McAfee ePolicy Orchestrator, CrowdStrike e Bitdefender GravityZone.
 - Redes: Conhecimento em protocolos e tecnologias de redes LANs e WANs, além de firewall, roteamento e NAT.
 - Nuvem: Implantação e gestão de serviços e servidores em nuvem (OCI e Azure)
 
