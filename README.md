@@ -1,7 +1,7 @@
 <h1 align="center">Sobre Mim</h1>
 </p>
 
-Me Chamo Leonardo Cortez e sou apaixonado por tecnologia, Com mais de 20 anos trabalhando em TI, aprendi que tecnologia não é só sobre máquinas e códigos, mas sobre resolver problemas reais e ajudar pessoas e empresas a trabalhar melhor.
+Me Chamo Leonardo Cortez e sou apaixonado por tecnologia, com mais de 20 anos trabalhando em TI, aprendi que tecnologia não é só sobre máquinas e códigos, mas sobre resolver problemas reais e ajudar pessoas e empresas a trabalhar melhor.
 
 Minha experiência é forte em infraestrutura de TI, onde lido todo dia com servidores (Windows e Linux), redes, firewalls e virtualização. Já implantei e dei suporte a sistemas como Alterdata, Visual Mix e Senior Sistemas, além de gerenciar backups e segurança.
 
